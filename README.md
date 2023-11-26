@@ -22,9 +22,9 @@ Step 3: Write the SQL queries
 10. Territory-wise Sales.
         
 
-SQL file link: https://drive.google.com/file/d/1gs1mKXXxfZbFYOsxxP6q17TnVJAvMWQ0/view?usp=sharing
+SQL file link: https://drive.google.com/file/d/1yKPtBLfpiz9o70R1B_BQLTE8nP1r5jzv/view
 
-PDF Link: https://drive.google.com/file/d/1AUdTTa80sx-V_qBvARz1IHAZP9UJzAgN/view?usp=sharing
+PDF Link: https://drive.google.com/file/d/1H2Xk7oN1DjqFI10KnISEhsBdW6bNNK47/view?usp=sharing
 
 
 
