@@ -20,7 +20,7 @@ Step 3: Write the SQL queries
 (viii) Product Sub-category Sales Contribution.
 (ix) Products with Highest Profit.
 (x) Territory-wise Sales.
-            
+        
 
 SQL file link: https://drive.google.com/file/d/1gs1mKXXxfZbFYOsxxP6q17TnVJAvMWQ0/view?usp=sharing
 
