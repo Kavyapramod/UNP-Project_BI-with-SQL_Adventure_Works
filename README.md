@@ -9,6 +9,7 @@ Step 1:  Create the database and the tables:
 Step 2:  Insert the data into the tables
 
 Step 3: Write the SQL queries
+            
             (i) Total Revenue by Product Category.
             (ii) Total Revenue by Product Category and Region.
             (iii) Average Order Value by Product Category.
